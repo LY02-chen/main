@@ -1,0 +1,15 @@
+a {
+    margin-top: 0; 
+    margin-bottom: 0.5em; 
+    text-align: center;
+    display: block;
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+    font-weight: bold; 
+    font-size: 3em;
+}
+
+a:hover, #rotatebutton ul li:hover {
+    background: rgba(0,0,0,0.2);
+    position: relative;
+}
